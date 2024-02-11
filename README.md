@@ -33,9 +33,13 @@ python password_checker.py
 ## Example Usage
 
 $ python password_checker.py
+
 type "break" to exit
+
 password: mypassword
+
 mypassword was found 123456 times! You should consider changing your password.
+
 password: break
 
 ## Note
